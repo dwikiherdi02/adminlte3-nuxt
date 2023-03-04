@@ -1,0 +1,7 @@
+# ignore folder handler inside folder pages
+/pages/**/handler/**
+/pages/handler/**
+
+# ignore folder handler inside folder layouts
+/layouts/**/handler/**
+/layouts/handler/**
